@@ -32,3 +32,7 @@
 [[constraint]]
   name = "github.com/labstack/echo"
   version = "3.1.0"
+
+[[constraint]]
+  name = "github.com/nats-io/go-nats"
+  version = "1.6.0"
